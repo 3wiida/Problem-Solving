@@ -2,6 +2,7 @@
     Problem Link: https://leetcode.com/problems/two-sum/description/?envType=problem-list-v2&envId=array&difficulty=EASY
     Difficulty: Easy
     Solved with: Java
+    Time Complexity: O(n^2)
  */
 
 class Solution {

@@ -1,3 +1,7 @@
+/*
+    problem link: https://www.hackerrank.com/challenges/sherlock-and-array/problem?isFullScreen=true
+ */
+
 string balancedSums(vector<int> arr) {
     long long sumLeft = 0, sumRight = 0;
     for(int i=0;i<arr.size();i++){

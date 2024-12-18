@@ -1,3 +1,7 @@
+/*
+    problem link: https://www.hackerrank.com/challenges/recursive-digit-sum/problem?isFullScreen=true
+ */
+
 int superDigit(string n, int k) {
     if(n.length() == 1) return stoi(n);
     long long sum=0;

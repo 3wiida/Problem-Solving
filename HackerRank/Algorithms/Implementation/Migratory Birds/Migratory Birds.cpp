@@ -1,3 +1,7 @@
+/*
+    problem link: https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true
+ */
+
 int migratoryBirds(vector<int> arr) {
     int freq_arr[5] = {0};
     

@@ -7,9 +7,7 @@
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexRemoved" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72a59249-bfcc-4154-9bee-23d20dc6b040" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Birthday Cake Candles.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Birthday Cake Candles.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="72a59249-bfcc-4154-9bee-23d20dc6b040" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,11 +38,13 @@
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/3wiida/Desktop/Day 1",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
@@ -59,6 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1734537978172</updated>
       <workItem from="1734537987510" duration="79000" />
+      <workItem from="1734539410239" duration="37000" />
     </task>
     <servers />
   </component>
